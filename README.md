@@ -1,5 +1,5 @@
 # readmelearn
 Learing initially
 
-* headding one
-** heading two
+# headding one
+## heading two
